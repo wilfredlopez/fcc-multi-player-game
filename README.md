@@ -1,3 +1,8 @@
+# LIVE ON REPL 
+`https://whisperedenchantedgraphs--five-nine.repl.co/`
+`https://repl.it/repls/WhisperedEnchantedGraphs#server.js`
+
+
 **freeCodeCamp** - Information Security 5: Secure Real Time Multiplayer Game
 ------
 [![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-project-secure-real-time-multiplayer-game)](https://repl.it/github/freeCodeCamp/boilerplate-project-secure-real-time-multiplayer-game)
